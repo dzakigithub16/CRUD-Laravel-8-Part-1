@@ -51,6 +51,26 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
+
+Step standar Sehabis git clone
+
+git clone https://github.com/dzakigithub16/CRUD-Laravel-8-Part-1.git
+composer install
+composer update
+php artisan key:generate
+
+Step Sehabis git clone
+
+git clone https://github.com/dzakigithub16/CRUD-Laravel-8-Part-1.git
+cd CRUD-Laravel-8-Part-1
+composer install
+composer update
+cp .env.example .env
+php artisan key:generate
+npm install
+npm run dev
+npm run watch
+
 ## Code of Conduct
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
