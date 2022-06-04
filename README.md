@@ -54,22 +54,22 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 ## Step standar Sehabis git clone
 
-- **git clone https://github.com/dzakigithub16/CRUD-Laravel-8-Part-1.git
-- **composer install
-- **composer update
-- **php artisan key:generate
+- git clone https://github.com/dzakigithub16/CRUD-Laravel-8-Part-1.git
+- composer install
+- composer update
+- php artisan key:generate
 
 ## Step Sehabis git clone
 
-- **git clone https://github.com/dzakigithub16/CRUD-Laravel-8-Part-1.git
-- **cd CRUD-Laravel-8-Part-1
-- **composer install
-- **composer update
-- **cp .env.example .env
-- **php artisan key:generate
-- **npm install
-- **npm run dev
-- **npm run watch
+- git clone https://github.com/dzakigithub16/CRUD-Laravel-8-Part-1.git
+- cd CRUD-Laravel-8-Part-1
+- composer install
+- composer update
+- cp .env.example .env
+- php artisan key:generate
+- npm install
+- npm run dev
+- npm run watch
 
 ## Code of Conduct
 
