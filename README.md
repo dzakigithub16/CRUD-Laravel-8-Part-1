@@ -57,7 +57,9 @@ Thank you for considering contributing to the Laravel framework! The contributio
 - git clone https://github.com/dzakigithub16/CRUD-Laravel-8-Part-1.git
 - composer install
 - composer update
+- Lalu buat folder .env dan masukan nama database
 - php artisan key:generate
+- php artisan migrate
 
 ## Step Sehabis git clone
 
